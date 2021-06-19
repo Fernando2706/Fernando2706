@@ -1,6 +1,6 @@
 ### Hello everybody! 👋
 
- Welcome to my GitHub profile, I am very grateful that you are watching, I hope you find things to your liking.
+ Welcome to my GitHub profile, I am very grateful that you are watching, I hope it is to your liking.
 I am a computer engineering student at the Antonio de Nebrija University, specialized in full-stack development, ML, AI and blockchain.
 
 If you need to contact me you can do it through [LinkedIn](https://www.linkedin.com/in/fernando-murua-alcazar/)
